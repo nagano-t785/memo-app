@@ -1,0 +1,8 @@
+# 仮想環境のフォルダ
+venv/
+
+# SQLiteのデータベースファイル
+memo.db
+
+# Pythonが自動生成するキャッシュフォルダ
+__pycache__/
